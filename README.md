@@ -2,7 +2,7 @@
 
 A sleek, dark-themed GUI frontend for running **pytest** and **unittest** on any Python project — with live output, real-time results, and zero configuration needed.
 
-![PyCentric Test Runner v1.3](Pycentric_Test_Runner_v1_3.png)
+<img width="1920" height="1040" alt="Pycentric_Test_Runner_v1 3" src="https://github.com/user-attachments/assets/b13ab092-4f9a-4a88-8623-43c4ecca6550" />
 
 ---
 
