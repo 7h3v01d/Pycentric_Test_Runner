@@ -1,0 +1,7 @@
+# PyCentric Test Runner — Python dependencies
+# Install with: pip install -r requirements.txt
+
+PyQt5>=5.15.0
+
+# Optional: install pytest if not already present in your project virtualenv
+# pytest>=7.0.0
